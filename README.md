@@ -9,7 +9,11 @@
   <strong>This is a repository for reinforcement learning implementation for Addverb's legged quadruped robot Trakr.</strong> 
 </p>
 
----
+<div align="center">
+<img src="trakr_rl.gif" width="480px" >
+</div>
+
+--- 
 
 ## 📦 Installation and Configuration
 
